@@ -46,6 +46,7 @@ body {
 .slack-btn:hover,
 .slack-btn:focus {
   text-decoration: none;
+  border: 2px solid;
 }
 .slack-btn:active {
   background-image: none;
@@ -131,4 +132,7 @@ body {
   left: -6px;
   margin-top: -7px;
   border-width: 7px 7px 7px 0;
+}
+.slack-count {
+    display: none;
 }
