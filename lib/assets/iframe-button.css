@@ -46,7 +46,6 @@ body {
 .slack-btn:hover,
 .slack-btn:focus {
   text-decoration: none;
-  background-color: #ddd;
 }
 .slack-btn:active {
   background-image: none;
